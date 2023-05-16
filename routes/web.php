@@ -17,5 +17,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/test/{id}', function ($id) {
-    return 'welcome $`id <br/> 11';
+    return 'welcome $`id <br/> 1';
 });
