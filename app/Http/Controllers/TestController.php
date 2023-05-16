@@ -1,5 +1,5 @@
 <?php
-
+//generate by   php artisan make:controller TestController --resource
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
@@ -11,7 +11,7 @@ class TestController extends Controller
      */
     public function index()
     {
-        //
+        return "haha";
     }
 
     /**
@@ -43,7 +43,7 @@ class TestController extends Controller
      */
     public function edit(string $id)
     {
-        //
+        return $id." Khong cos gi";
     }
 
     /**
