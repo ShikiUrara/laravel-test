@@ -16,6 +16,7 @@ use App\Http\Controllers\TestController;
 Route::get('/', function () {
     return view('welcome');
 });
+
 Route::get('/test/{id}', function ($id) {
     return 'welcome '.$id.' <br/> 1';
 });
@@ -33,3 +34,9 @@ Route::get('thongtin/{ten}', function ( $ten) {
     return "hello $ten";
  })->where([ 'ten' => '[0-9]+']);
 
+
+
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
