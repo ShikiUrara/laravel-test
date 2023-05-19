@@ -1,0 +1,85 @@
+<div class="Track">
+  <h1 class="title">Song Playlist</h1>
+  <div class="track-list">
+    <div class="track-item">
+      <div class="album">
+        <div class="album-image">
+          <img src="#" alt="This will be an image" />
+        </div>
+        <div class="album-info">
+          <div>
+            <h2>Title</h2>
+            <h4>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate quisquam sint dolorum quasi labore dolore inventore voluptatum nostrum adipisci est temporibus iure in, obcaecati neque tenetur tempore nisi sapiente molestias.
+            </h4>
+          </div>
+          <button>Select</button>
+        </div>
+      </div>
+    </div>
+    <div class="track-item">
+      <div class="album">
+        <div class="album-image">
+          <img src="#" alt="This will be an image" />
+        </div>
+        <div class="album-info">
+          <div>
+            <h2>Title</h2>
+            <h4>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate quisquamiente molestias.
+            </h4>
+           </div>
+          <button>Select</button>
+        </div>
+      </div>
+    </div>
+    <div class="track-item">
+      <div class="album">
+        <div class="album-image">
+          <img src="#" alt="This will be an image" />
+        </div>
+        <div class="album-info">
+          <div>
+            <h2>Title</h2>
+            <h4>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate quisqadipisci est temporibus iure in, obcaecati neque tenetur tempore nisi sapiente molestias.
+            </h4>
+          </div>
+          <button>Select</button>
+        </div>
+      </div>
+    </div>
+    <div class="track-item">
+      <div class="album">
+        <div class="album-image">
+          <img src="#" alt="This will be an image" />
+        </div>
+        <div class="album-info">
+        <div>
+          <h2>Title</h2>
+          <h4>
+            Lorem, ipsum do sapiente molestias.
+          </h4>
+          </div>
+          <button>Select</button>
+        </div>
+      </div>
+    </div>
+    <div class="track-item">
+      <div class="album">
+        <div class="album-image">
+          <img src="#" alt="This will be an image" />
+        </div>
+        <div class="album-info">
+        <div>
+          <h2>Title</h2>
+          <h4>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate quisquam sint dolorum quasi labore dolore inventore voluptatum molestias.
+          </h4>
+          </div>
+          <button>Select</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></code></pre>
